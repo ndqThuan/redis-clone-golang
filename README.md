@@ -1,2 +1,3 @@
 # redis-clone-golang
-An in-memory database like Redis building from scratch using Golang. This is a researching project and not suitable for production.
+Building a simple in-memory key-value store inspired by Redis.This project will help me learn about key-value data structures,
+concurrency control, and in-memory storage mechanisms.
